@@ -1,6 +1,9 @@
+.body {
+    margin-top: -50px;
+    background-color: saddlebrown;
+}
 .nav1 {
     background-color: #fffd;
-    z-index: 2 !important;
     /* opacity: 0.1; */
     }
 
