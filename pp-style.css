@@ -1,5 +1,5 @@
 .nav1 {
-    background-color: none;
+    background-color: #fffd;
     z-index: 2 !important;
     /* opacity: 0.1; */
     }
@@ -60,6 +60,6 @@
 }
 .words {
     height: 500px;
-    width: 800px;
+    width: 100% !important;
     background-color: rgba(0, 0, 0, .5);
 }
